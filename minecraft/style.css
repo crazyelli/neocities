@@ -3,6 +3,12 @@ html {
   color: white;
   font-family: "Monocraft", Couerier New, monospace;
   text-align: center;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
 }
 
 .header img {
@@ -12,7 +18,28 @@ html {
 }
 
 #body {
-  width: 1200px;
+  width: 1100px;
   height: auto;
+  margin: auto;
+}
+
+a {
+  color: #0db50d;
+  text-decoration: none;
+}
+
+.footer {
+  height: auto;
+  width: 400px;
+  margin: auto;
+}
+
+.footer p {
+  font-size: small;
+}
+
+.screenshots img {
+  height: auto;
+  width: 400px;
   margin: auto;
 }
