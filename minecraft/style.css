@@ -1,4 +1,18 @@
 html {
   background: url(/images/dirt.webp);
-  color: grey;
+  color: white;
+  font-family: "Monocraft", Couerier New, monospace;
+  text-align: center;
+}
+
+.header img {
+  height: auto;
+  width: 900px;
+  margin: auto;
+}
+
+#body {
+  width: 1200px;
+  height: auto;
+  margin: auto;
 }
