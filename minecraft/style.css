@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Monocraft";
+  src: url("Monocraft.eot");
+  src: url("Monocraft.eot?#iefix") format("embedded-opentype"),
+    url("Monocraft.woff") format("woff"),
+    url("Monocraft.ttf") format("truetype"),
+    url("Monocraft.svg#Monocraft") format("svg");
+}
+
 html {
   background: url(/images/dirt.webp);
   color: white;

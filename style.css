@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Fira Code";
+  src: url("FiraCode.eot");
+  src: url("FiraCode.eot?#iefix") format("embedded-opentype"),
+    url("FiraCode.woff") format("woff"), url("FiraCode.ttf") format("truetype"),
+    url("FiraCode.svg#FiraCode") format("svg");
+}
+
 html {
   background: url(/images/pattern\ 239.gif);
   color: white;
