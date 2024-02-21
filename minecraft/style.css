@@ -6,7 +6,7 @@
 html {
   background: url(/images/dirt.webp);
   color: white;
-  font-family: "Monocraft", Couerier New, monospace;
+  font-family: "Monocraft", monospace;
   text-align: center;
   -ms-overflow-style: none;
   scrollbar-width: none;
