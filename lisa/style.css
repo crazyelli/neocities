@@ -5,7 +5,27 @@
 
 html {
   background: url(/images/lisafeature.jpeg);
-  color: azure;
+  background-size: cover;
+  color: lightgray;
   text-align: center;
   font-family: "VCR OSD Mono", monospace;
+}
+
+body {
+  margin: 50px;
+}
+
+.header {
+  margin: auto;
+  width: 600px;
+  height: auto;
+  border: lightgray solid thick;
+  border-radius: 20px;
+  background: black;
+}
+
+.header img {
+  width: 600px;
+  height: auto;
+  margin: 20px;
 }
