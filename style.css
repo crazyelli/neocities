@@ -37,7 +37,7 @@ html {
 .other__pages {
   text-align: center;
   font-size: 100%;
-  width: 60%;
+  width: auto;
   border: lavender solid thin;
   border-radius: 7px;
   background: url(/images/pattern\ 239.gif);
@@ -97,6 +97,11 @@ html {
 .middle {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  position: relative;
+  justify-content: stretch;
 }
 
 .middle div {
@@ -215,7 +220,11 @@ iframe {
 
 .changelog {
   text-align: center;
-  width: 60%;
+  width: auto;
+  margin: auto;
+  border: lavender solid thin;
+  border-radius: 7px;
+  background: url(/images/pattern\ 239.gif);
 }
 
 .changelog h1 {
