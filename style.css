@@ -140,6 +140,7 @@ iframe {
 }
 
 #container {
+  text-align: center;
   margin: 5px;
 }
 
@@ -233,4 +234,10 @@ iframe {
 
 .changelog a {
   color: lightgray;
+}
+
+.container__socials img {
+  height: auto;
+  margin: auto;
+  width: 70px;
 }
