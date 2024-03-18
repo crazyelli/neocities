@@ -1,12 +1,12 @@
 @font-face {
-  font-family: "Fira Code";
-  src: url(/fonts/FiraCode-Retina.ttf) format("truetype");
+  font-family: "Open Dyslexic";
+  src: url(/fonts/OpenDyslexic3-Regular.ttf) format("truetype");
 }
 
 html {
-  background: url(/images/parallax_dw_1.png);
+  background: url(/images/nurple-static-bright.gif);
   color: white;
-  font-family: "Fira Code", Courier, monospace;
+  font-family: "Open Dyslexic";
 }
 
 .title__text {
