@@ -236,3 +236,7 @@ iframe {
   margin: auto;
   width: 70px;
 }
+
+body {
+  overscroll-behavior-x: auto;
+}
