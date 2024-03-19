@@ -1,12 +1,12 @@
 @font-face {
-  font-family: "Open Dyslexic";
+  font-family: Open Dyslexic;
   src: url(/fonts/OpenDyslexic3-Regular.ttf) format("truetype");
 }
 
 html {
   background: url(/images/nurple-static-bright.gif);
   color: white;
-  font-family: "Open Dyslexic";
+  font-family: Open Dyslexic;
 }
 
 .title__text {
