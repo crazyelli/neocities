@@ -248,3 +248,252 @@ iframe {
 body {
   overscroll-behavior-x: auto;
 }
+
+.shantell-sans-font-style {
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0,
+    "INFM" 0,
+    "SPAC" 0;
+}
+
+html {
+  background: url(/images/nurple-static-bright.gif);
+  color: white;
+  font-family: "Shantell Sans", cursive;
+}
+
+.title__text {
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+}
+
+.title__text h1 {
+  font-size: 300%;
+  color: lightskyblue;
+}
+
+.body__text div {
+  align-items: stretch;
+  margin: 5px 5px 5px 5px;
+}
+
+.body__text {
+  display: flex;
+  text-align: center;
+}
+
+.body__text h1 {
+  font-size: 200%;
+  margin: 20px 0px 20px 0px;
+}
+
+.other__pages {
+  text-align: center;
+  font-size: 100%;
+  width: auto;
+  border: lavender solid thin;
+  border-radius: 7px;
+  background: url(/images/pattern\ 239.gif);
+}
+
+.other__pages * {
+  margin: 15px;
+}
+
+.other__pages a {
+  color: lightgray;
+}
+
+.other__pages h1 {
+  color: lightskyblue;
+}
+
+.other__pages p {
+  position: relative;
+  bottom: 10px;
+}
+
+.blog__text {
+  text-align: center;
+}
+
+#blog__post h1 {
+  color: lightskyblue;
+}
+
+#blog__post h2 {
+  position: relative;
+  bottom: 20px;
+  font-size: 100%;
+}
+
+.navbar {
+  margin: 5px 5px 5px 5px;
+  display: flex;
+}
+
+.navbar a {
+  color: lightgray;
+  margin: 5px 0px 5px 0px;
+  font-size: 100%;
+  padding: 5px 10px;
+}
+
+.container__blog {
+  text-align: center;
+}
+
+.container__blog div {
+  margin: 5px 5px 5px 5px;
+}
+
+.middle {
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+}
+
+.middle div {
+  margin: auto;
+}
+
+.monthly_video {
+  width: 75%;
+  text-align: center;
+}
+
+.monthly_video h1 {
+  color: lightskyblue;
+  margin: 10px 0px 10px 0px;
+  font-size: 250%;
+}
+
+.monthly_video a {
+  color: lightgray;
+  position: relative;
+}
+
+iframe {
+  border: 0;
+}
+
+.header {
+  color: lightskyblue;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 250%;
+  padding: 1%;
+}
+
+#container {
+  text-align: center;
+  margin: 5px;
+}
+
+#header__about h1 {
+  font-size: 100px;
+}
+
+#blog__post {
+  width: 700px;
+  margin: auto;
+  height: auto;
+}
+
+.rants__text {
+  text-align: center;
+}
+
+#rants__post h1 {
+  color: lightskyblue;
+}
+
+#rants__post h2 {
+  position: relative;
+  bottom: 20px;
+  font-size: 100%;
+}
+
+#rants__post {
+  width: 700px;
+  margin: auto;
+  height: auto;
+}
+
+.container__archive {
+  text-align: center;
+}
+
+.container__about {
+  text-align: center;
+}
+
+.about__text {
+  width: 750px;
+  margin: auto;
+  height: auto;
+}
+
+.about__text p {
+  font-size: 25px;
+}
+
+.likes__dislikes {
+  display: inline-flex;
+  width: 750px;
+  margin: auto;
+  height: auto;
+  text-align: center;
+}
+
+.likes__dislikes div {
+  display: inline-flex;
+  width: 50%;
+  margin: auto;
+  height: auto;
+  flex-flow: column wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.likes__dislikes h1 {
+  color: lightskyblue;
+}
+
+.container__archive h1 {
+  color: lightskyblue;
+}
+
+.changelog {
+  text-align: center;
+  width: auto;
+  margin: auto;
+  border: lavender solid thin;
+  border-radius: 7px;
+  background: url(/images/pattern\ 239.gif);
+}
+
+.changelog h1 {
+  color: lightskyblue;
+}
+
+.changelog a {
+  color: lightgray;
+}
+
+.container__socials img {
+  height: auto;
+  margin: auto;
+  width: 70px;
+}
+
+body {
+  overscroll-behavior-x: auto;
+}
