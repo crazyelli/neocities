@@ -11,7 +11,7 @@
 
 body {
   background: url(/images/nurple-static-bright.gif);
-  color: #5bcefa;
+  color: #000080;
   font-family: "Shantell Sans", cursive;
   overscroll-behavior-x: auto;
 }
@@ -21,7 +21,7 @@ p {
 }
 
 a {
-  color: #87ceeb;
+  color: #5bcefa;
 }
 
 iframe {
@@ -42,4 +42,23 @@ iframe {
       rgba(0, 0, 0, 0),
       rgba(255, 255, 255, 1),
       rgba(0, 0, 0, 0));
+}
+
+#container {
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#main {
+  max-width: 700px;
+  width: 85%;
+  height: auto;
+  margin: auto;
+  border-radius: 20px 20px 20px 20px;
+  background-image: url(/images/sky.png);
+  padding-bottom: 18px;
 }
