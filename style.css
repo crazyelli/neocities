@@ -34,6 +34,10 @@ iframe {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
+  margin: 20px;
+  font-size: 17px;
+  margin-top: 2px;
+  margin-bottom: 0px;
 }
 
 .divider {
@@ -57,11 +61,18 @@ iframe {
 }
 
 #main {
-  max-width: 700px;
+  max-width: 680px;
   width: 85%;
   height: auto;
   margin: auto;
   border-radius: 20px 20px 20px 20px;
   background-image: url(/images/sky.png);
   padding-bottom: 18px;
+}
+
+#intro {
+  margin: 20px;
+  font-size: 17px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
