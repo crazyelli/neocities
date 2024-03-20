@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap") .shantell-sans-font-config {
+@import url("https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap")
+.shantell-sans-font-config {
   font-family: "Shantell Sans", cursive;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -10,7 +11,7 @@
 }
 
 body {
-  background: url(/images/nurple-static-bright.gif);
+  background: url(/images/parallax_dw_1.png);
   color: #000080;
   font-family: "Shantell Sans", cursive;
   overscroll-behavior-x: auto;
@@ -38,10 +39,12 @@ iframe {
 .divider {
   margin: 14px, 20px;
   height: 2px;
-  background: linear-gradient(to right,
-      rgba(0, 0, 0, 0),
-      rgba(255, 255, 255, 1),
-      rgba(0, 0, 0, 0));
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(255, 255, 255, 1),
+    rgba(0, 0, 0, 0)
+  );
 }
 
 #container {
