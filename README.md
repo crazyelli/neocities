@@ -2,7 +2,7 @@
 
 Github repo for my personal website on neocities written in only HTML and CSS.
 
-Website: [THE WEBSITE OF ALL TIME](https://thetransgenderdevil.neocities.org/)
+Website: [elli's web world](https://thetransgenderdevil.neocities.org/)
 
 ## Web Pages
 
@@ -15,10 +15,6 @@ This page hosts the video of the month, changelog, links to other pages, and my 
 ### Video Archive
 
 This is for videos of the month that were prevoiusly on the home page.
-
-### About Me
-
-A simple about me page with my likes & dislikes and a little blurb talking about who I am.
 
 ### Rants
 
