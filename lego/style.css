@@ -23,7 +23,6 @@ html {
     margin: 10px auto;
     border: medium solid #000000;
     background: #E3000B;
-    text-align: left;
 }
 
 .footer {
@@ -36,4 +35,8 @@ html {
 
 a {
     color: #FFED00;
+}
+
+p {
+  margin-inline: 10px 10px;
 }
