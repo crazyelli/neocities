@@ -81,15 +81,15 @@ iframe {
 
 #sidebar {
   max-width: 250px;
-  width: 50%;
   height: auto;
   margin: auto;
   border-radius: 20px 20px;
   background-image: url(images/sky.png);
   padding-bottom: 18px;
   position: relative;
-  bottom: 478px;
+  bottom: 479px;
   right: 500px;
+  display: flex;
 }
 
 #pages {
