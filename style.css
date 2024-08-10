@@ -56,6 +56,9 @@ iframe {
   height: auto;
   display: flex;
   flex-direction: column;
+  padding-bottom: 18px;
+  background-image: url(images/sky.png);
+  border-radius: 20px 20px;
 }
 
 #main {
@@ -97,4 +100,19 @@ iframe {
   margin: 20px;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+#rants__post {
+  font-size: 17px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#rants__post h1 {
+  text-align: center;
+}
+
+#rants__post h2 {
+  text-align: center;
 }
