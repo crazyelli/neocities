@@ -48,3 +48,8 @@ a {
 p {
   margin-inline: 10px 10px;
 }
+
+.body img {
+  width: 150px;
+  height: auto;
+}
