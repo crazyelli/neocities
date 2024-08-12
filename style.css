@@ -63,13 +63,15 @@ iframe {
 }
 
 #main {
-  max-width: 680px;
+  max-width: 860px;
   width: 85%;
   height: auto;
   margin: auto;
   border-radius: 20px 20px;
   background-image: url(images/sky.png);
   padding-bottom: 18px;
+  top: 0;
+  z-index: 1;
 }
 
 #intro {
@@ -84,16 +86,19 @@ iframe {
 }
 
 #sidebar {
-  max-width: 250px;
+  width: 250px;
   height: auto;
   margin: auto;
   border-radius: 20px 20px;
   background-image: url(images/sky.png);
   padding-bottom: 18px;
-  position: relative;
-  bottom: 479px;
-  right: 500px;
+  position: fixed;
   display: flex;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  margin-top: 10%;
 }
 
 #pages {
