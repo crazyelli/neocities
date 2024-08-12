@@ -8,5 +8,23 @@
 
 html {
   font-family: "Noto Sans", sans-serif;
+  color: #eba0ac;
+  text-align: center;
+  background: url(images/Monastery_of_Spinjitzu.webp);
+  background-size: cover;
 }
 
+p {
+  text-shadow: 1px 1px #181825;
+}
+
+h1 {
+  text-shadow: 3px 3px #181825;
+}
+
+.body {
+  max-width: 80%;
+  width: 700px;
+  margin: auto;
+  height: auto;
+}
